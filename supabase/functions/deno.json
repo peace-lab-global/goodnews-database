@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@supabase/supabase-js": "npm:@supabase/supabase-js@^2.49.0",
+    "rss-parser": "npm:rss-parser@^3.13.0",
+    "openai": "npm:openai@^4.80.0",
+    "cheerio": "npm:cheerio@^1.0.0"
+  }
+}

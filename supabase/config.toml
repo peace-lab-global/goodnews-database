@@ -1,0 +1,24 @@
+[project]
+id = "goodnews-local"
+
+[api]
+enabled = true
+port = 54321
+
+[db]
+port = 54322
+
+[db.seed]
+sql_paths = ["./seed.sql"]
+
+[studio]
+port = 54323
+
+[functions.rss-ingest]
+verify_jwt = false
+
+[functions.ai-classify]
+verify_jwt = false
+
+[functions.ai-summarize]
+verify_jwt = false

@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Good News - AI 好消息",
+  "version": "1.0.0",
+  "description": "只显示好消息的 AI 新闻聚合器",
+  "permissions": ["storage", "alarms"],
+  "host_permissions": ["https://*.supabase.co/*"],
+  "background": {
+    "service_worker": "src/background/index.ts",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "src/popup/index.html",
+    "default_icon": {
+      "16": "public/icons/icon16.png",
+      "48": "public/icons/icon48.png",
+      "128": "public/icons/icon128.png"
+    }
+  },
+  "options_page": "src/options/index.html",
+  "icons": {
+    "16": "public/icons/icon16.png",
+    "48": "public/icons/icon48.png",
+    "128": "public/icons/icon128.png"
+  }
+}

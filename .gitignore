@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build
+dist/
+build/
+.next/
+
+# Expo
+.expo/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Supabase
+.branches/
+.temp/
+
+# Turbo
+.turbo/
+
+# Qoder
+.qoder/
+
+# Chrome Extension
+apps/chrome-extension/dist/
+
+# WeChat
+apps/wechat-miniprogram/dist/

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Good News - Settings</title>
+  <style>
+    body { max-width: 600px; margin: 40px auto; padding: 0 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    h1 { color: #1a1a1a; }
+    .topic { display: flex; align-items: center; gap: 12px; padding: 12px 0; border-bottom: 1px solid #f0f0f0; }
+    .topic-name { flex: 1; font-weight: 600; }
+    .toggle { width: 44px; height: 24px; border-radius: 12px; background: #e0e0e0; border: none; cursor: pointer; position: relative; }
+    .toggle.active { background: #10B981; }
+    .toggle::after { content: ''; position: absolute; width: 20px; height: 20px; border-radius: 10px; background: #fff; top: 2px; left: 2px; transition: left 0.2s; }
+    .toggle.active::after { left: 22px; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="./index.tsx"></script>
+</body>
+</html>
