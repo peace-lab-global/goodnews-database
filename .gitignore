@@ -36,7 +36,7 @@ Thumbs.db
 .qoder/
 
 # Chrome Extension
-apps/chrome-extension/dist/
+tools/apps/chrome-extension/dist/
 
 # WeChat
-apps/wechat-miniprogram/dist/
+tools/apps/wechat-miniprogram/dist/
