@@ -14,5 +14,5 @@
 全球有近 3 亿慢性乙肝患者，中国约 8000 万，绝大多数人需要终身服药。功能性治愈意味着他们第一次有机会像普通健康人一样生活、工作、结婚生子——这不只是医学进步，是几千万家庭的命运被改写。
 
 ## 来源
-- [Medscape: Functional Cure for Hepatitis B Is Now 'Achievable'](https://journal.medscape.com/)
-- 《柳叶刀》原始研究
+- [Medscape: Functional Cure for Hepatitis B Is Now 'Achievable'](https://www.medscape.com/viewarticle/functional-cure-hepatitis-b-now-achievable-2026a1000s1)
+- [The Lancet: Bepirovirsen Ⅲ 期临床 72 周数据（需机构访问）](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00345-6/fulltext)
