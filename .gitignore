@@ -40,3 +40,4 @@ tools/apps/chrome-extension/dist/
 
 # WeChat
 tools/apps/wechat-miniprogram/dist/
+update_index.py
